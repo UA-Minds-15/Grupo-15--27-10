@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .box {
 	width: 350px;
 	height: 150px;
@@ -55,3 +56,111 @@
 	background: #F3CE5E;
 	border-radius: 57px;
 }
+=======
+.fundo-fred {
+	background: #FEF4DE;
+	background-image: url(../img/Image\ -\ EXPORTAR.png);
+	position: absolute;
+	width: 1500px;
+	height: 900px;
+	left: 0px;
+	top: 0px;
+	
+}
+
+.FT {
+	position: absolute;
+	width: 600px;
+	height: 100px;
+	left: 160px;
+	top: 280px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 115px;
+	line-height: 118.5%;
+	display: flex;
+	align-items: center;
+	color: #663128;
+	letter-spacing: 5px;
+}
+.FTS{
+	position: absolute;
+	width: 639px;
+	height: 216px;
+	left: 158px;
+	top: 350px;
+	font-family: 'Poppinsy';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 60px;
+	line-height: 118.5%;
+	display: flex;
+	align-items: center;
+	color: #663128;
+	letter-spacing: 25px;
+}
+.Introduçao {
+	position: absolute;
+	width: 610px;
+	height: 72px;
+	left: 163px;
+	top: 553px;
+	font-family: 'SF Pro Display';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	color: #663128;
+	letter-spacing: 0.5px;
+}
+.Img {
+	position: absolute;
+	left: 826px;
+	right: 98px;
+	top: 227px;
+
+}
+.touch {
+	top: 50%;
+	position: relative;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	border: none;
+	width: 210px;
+	height: 66px;
+	left: 158px;
+	top: 680px;
+	justify-content: center;
+	font-family: 'SF Pro Display';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 24px;
+	display: flex;
+	color: #663128;
+	border: none;
+	background: #F3CE5E;
+	box-shadow: 0px 20px 40px rgba(243, 206, 94, 0.2);
+	border-radius: 57px;
+}
+.aboout {
+	text-align: center;
+	border: none;
+	position: absolute;
+	width: 102px;
+	height: 24px;
+	left: 438px;
+	top: 699px;
+	font-family: 'SF Pro Display';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 24px;
+	display: flex;
+	align-items: center;
+	color: #663128;
+}
+
+>>>>>>> 7f1ca0c9d1fa15b547fdd4b58bf0e05771876f55
