@@ -62,7 +62,7 @@
 	top: 227px;
 
 }
-.touch {
+.touchh {
 	top: 50%;
 	position: relative;
 	display: flex;
@@ -104,3 +104,21 @@
 	color: #663128;
 }
 
+.top{
+		position: absolute;
+		width: 873px;
+		height: 180px;
+		left: 640px;
+		top: 0px;
+		background-image: radial-gradient(ellipse farthest-corner at 1300px 0px , rgba(255, 255, 255, 0) 74.1%, #7C4032 0%, #7C4032 0%);
+		transform: rotate(180deg);
+}
+
+.go{
+    position: absolute;
+    width: 1900px;
+    height: 222px;
+    left: 0px;
+    top:  702px;
+    background-image: radial-gradient(ellipse farthest-corner at 1950px 0px , rgba(255, 255, 255, 0) 74.1%, #7C4032 0%, #7C4032 0%);
+}
