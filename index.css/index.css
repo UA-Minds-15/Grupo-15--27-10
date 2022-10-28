@@ -1,3 +1,127 @@
+.fundo-fred {
+	background: #FEF4DE;
+	background-image: url(../img/Image\ -\ EXPORTAR.png);
+	position: absolute;
+	width: 1500px;
+	height: 900px;
+	left: 0px;
+	top: 0px;
+	
+}
+.luis{
+	top: 280px;
+}
+.FT {
+	position: absolute;
+	width: 600px;
+	height: 100px;
+	left: 160px;
+	top: 280px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 115px;
+	line-height: 118.5%;
+	display: flex;
+	align-items: center;
+	color: #663128;
+	letter-spacing: 5px;
+}
+.FTS{
+	position: absolute;
+	width: 639px;
+	height: 216px;
+	left: 158px;
+	top: 350px;
+	font-family: 'Poppinsy';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 60px;
+	line-height: 118.5%;
+	display: flex;
+	align-items: center;
+	color: #663128;
+	letter-spacing: 25px;
+}
+.Introduçao {
+	position: absolute;
+	width: 610px;
+	height: 72px;
+	left: 163px;
+	top: 553px;
+	font-family: 'SF Pro Display';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	color: #663128;
+	letter-spacing: 0.5px;
+}
+.Img {
+	position: absolute;
+	left: 826px;
+	right: 98px;
+	top: 227px;
+
+}
+.touchh {
+	top: 50%;
+	position: relative;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	border: none;
+	width: 210px;
+	height: 66px;
+	left: 158px;
+	top: 680px;
+	justify-content: center;
+	font-family: 'SF Pro Display';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 24px;
+	display: flex;
+	color: #663128;
+	border: none;
+	background: #F3CE5E;
+	box-shadow: 0px 20px 40px rgba(243, 206, 94, 0.2);
+	border-radius: 57px;
+}
+.aboout {
+	text-align: center;
+	border: none;
+	position: absolute;
+	width: 102px;
+	height: 24px;
+	left: 438px;
+	top: 699px;
+	font-family: 'SF Pro Display';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 24px;
+	display: flex;
+	align-items: center;
+	color: #663128;
+}
+.top{
+		position: absolute;
+		width: 873px;
+		height: 180px;
+		left: 640px;
+		top: 0px;
+		background-image: radial-gradient(ellipse farthest-corner at 1300px 0px , rgba(255, 255, 255, 0) 74.1%, #7C4032 0%, #7C4032 0%);
+		transform: rotate(180deg);
+}
+.go{
+    position: absolute;
+    width: 1900px;
+    height: 222px;
+    left: 0px;
+    top:  702px;
+    background-image: radial-gradient(ellipse farthest-corner at 1950px 0px , rgba(255, 255, 255, 0) 74.1%, #7C4032 0%, #7C4032 0%);
+}
 .box {
 	width: 350px;
 	height: 150px;
@@ -10,12 +134,11 @@
 
 .fundodeservice {
 	position: absolute;
-	width: 1310px;
-	height: 720px;
-	left: 0px;
-	top: 1113px;
-
-	background: #7C4032;
+    width: 1476px;
+    height: 922px;
+    left: -4px;
+    top: 922px;
+    background: #7C4032;
 }
 
 
@@ -23,8 +146,8 @@
 	position: absolute;
 	width: 1000px;
 	height: 530px;
-	left: 150px;
-	top: 95px;
+	left: 180px;
+	top: 195px;
 }
 
 .service {
@@ -33,7 +156,7 @@
 	height: 100px;
 	left: 37%;
 	right: 100px;
-	top: 0px;
+	top: -40px;
 	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 700;
@@ -47,13 +170,16 @@
 }
 
 .touch {
-
+	border: no;
 	position: absolute;
 	width: 210px;
 	height: 60px;
-	left: 550px;
-	top: 1770px;
-
+	left: 570px;
+	top: 1700px;
+	border: none;
 	background: #F3CE5E;
 	border-radius: 57px;
+	color: #663128;
+	font-family: 'SF Pro Display';
+	font-style: normal;
 }
